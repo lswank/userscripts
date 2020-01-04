@@ -33,7 +33,7 @@ Please report any userscript issues within this repository's [issue section](htt
 If you would like to contribute to this repository, please...
 
 1. Fork
-2. Make changes (please read the [contribution guidelines](./CONTRIBUTING.md) and abide by them)
+2. Make changes 
 3. Create a pull request!
 
 ## Acknowledgements
