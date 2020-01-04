@@ -18,7 +18,7 @@ Lorenzo's homebrewed userscripts to add functionality to a myriad of sites.
 
 
 	| Userscript Wiki                        | Direct<br>Install | Created    | Updated    | Deprecated |
-	|----------------------------------------|:------------------::----------:|:----------:|:----------:|
+	|---------------------------------------:|:-----------------:|:----------:|:----------:|:----------:|
 	| [YouTube Citations][ytc-wiki]          | [install][ytc-raw]| 2020.01.04 |  |            |
 
 [ytc-wiki]: https://github.com/Lswank/userscripts/wiki/YouTube-Citations
